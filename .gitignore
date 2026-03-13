@@ -1,0 +1,10 @@
+venv_backup/
+runs/
+yolo_dataset/
+annotations/
+images/
+*.pt
+*.pth
+*.onnx
+__pycache__/
+*.pyc
