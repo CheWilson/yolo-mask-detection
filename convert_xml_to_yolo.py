@@ -276,7 +276,7 @@ names: {CLASSES}  # 類別名稱列表
     
     # 顯示統計信息
     print("\n" + "=" * 60)
-    print("✅ 轉換完成!")
+    print(" 轉換完成!")
     print("=" * 60)
     print(f"成功轉換: {total_converted} 個文件")
     print(f"錯誤/跳過: {total_errors} 個文件")
